@@ -1,9 +1,7 @@
 
 Title: Code Refactoring
 
-Links: http://127.0.0.1:5504/homework1/html-css-git-code-refraction-hw1/index.html
-
-https://calvinturner10.github.io/Homework01_HTML-CSS-Code-Refactor/
+Links: https://calvinturner10.github.io/Homework01_HTML-CSS-Code-Refactor/
 
 Screenshot: https://user-images.githubusercontent.com/92739989/143139771-d543b206-4381-4276-88ad-a147c9265d24.png
 ![image](https://user-images.githubusercontent.com/92739989/139538408-328f2b49-30a0-4032-8e71-73d26ca79c91.png)
